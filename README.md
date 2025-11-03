@@ -1,1 +1,3 @@
-# kontradiksi-diskrit-1
+# Project Pertemuan 7
+
+# Matematika Diskrit
